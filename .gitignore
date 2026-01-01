@@ -1,0 +1,13 @@
+pycache/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.env
+output/
+*.xlsx
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
